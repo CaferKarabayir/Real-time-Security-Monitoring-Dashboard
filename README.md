@@ -1,7 +1,6 @@
 
+<img width="1831" height="432" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/89e7c71f-311c-4c4b-9c8b-b9b1f9490fb9" />
 
-
-<img width="1854" height="1048" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/df6d1e22-5cba-4e5e-b673-1422dc49a345" />
 
 
 GitHub repuna bu başlıklarla girmen, senin SPL (Splunk Search Processing Language) ve Security Visualization becerini parlatır.
